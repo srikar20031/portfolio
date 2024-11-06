@@ -204,8 +204,8 @@ header {
 .progress-line .java {
   width: 50%;
 }
-.progress-line .python {
-  width: 50%;
+.progress-line .oracleRDMS {
+  width: 85%;
 }
 .progress-line .c {
   width: 70%;
