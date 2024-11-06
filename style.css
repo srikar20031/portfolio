@@ -472,6 +472,7 @@ header {
 /* ////......Contact......///// */
 
 .contact {
+  font-family: "Poppins", sans-serif;
   background: #26012d;
   position: relative;
   height: 92vh;
