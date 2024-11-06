@@ -246,8 +246,8 @@ header {
 .progress-line .java::after {
   content: "50%";
 }
-.progress-line .python::after {
-  content: "50%";
+.progress-line .oracleRDMS::after {
+  content: "85%";
 }
 .progress-line .c::after {
   content: "70%";
